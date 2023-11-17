@@ -13,4 +13,4 @@ pnpm dev
 bun dev
 ```
 
-Открыть [http://localhost:3000](http://localhost:3000) браузер
+Открыть [http://localhost:3000](http://localhost:3000)
